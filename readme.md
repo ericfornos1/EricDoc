@@ -16,7 +16,8 @@ Enllaç a un fitxer MD on documenteu tot el procés seguit.
 
 1- Comentar el codi (de forma útil, no obvia) i fer servir JavaDocs per cada funció i classe que feu servir.
 Una bona forma de comentar el codi normalment utilitzant JavaDoc es utilitzar els caracters " /** " i també fer "param"
-![Alt text](Captura de pantalla de 2023-02-21 19-19-22.png "Documentacio")
+
+
 
 
 
