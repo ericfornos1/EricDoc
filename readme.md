@@ -12,6 +12,7 @@ A entregar:
 
 Enllaç a un fitxer MD on documenteu tot el procés seguit.
 
+![Alt text](1.png)
 
 
 1- Comentar el codi (de forma útil, no obvia) i fer servir JavaDocs per cada funció i classe que feu servir.
